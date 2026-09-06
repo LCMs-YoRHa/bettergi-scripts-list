@@ -1,5 +1,5 @@
 {
-  "time": "20260905212039",
+  "time": "20260906213019",
   "url": "https://github.com/babalae/bettergi-scripts-list/archive/refs/heads/main.zip",
   "file": "repo.json",
   "indexes": [
@@ -108193,7 +108193,7 @@
         {
           "name": "AutoFishingTeyvat-Bait",
           "type": "directory",
-          "version": "1.0.4",
+          "version": "1.0.5",
           "author": "提瓦特钓鱼玳师",
           "authors": [
             {
@@ -108205,7 +108205,7 @@
           "tags": [
             "bgi≥0.55.0"
           ],
-          "lastUpdated": "2026-03-25 20:01:17"
+          "lastUpdated": "2026-09-05 23:07:05"
         },
         {
           "name": "AutoFontaineLeyLine",
@@ -108626,7 +108626,7 @@
         {
           "name": "AutoWoodcutting-Pathing",
           "type": "directory",
-          "version": "3.0.10",
+          "version": "3.1.0",
           "author": "Tim",
           "authors": [
             {
@@ -108645,7 +108645,7 @@
             "地图追踪",
             "王树瑞佑"
           ],
-          "lastUpdated": "2026-09-03 17:38:19"
+          "lastUpdated": "2026-09-06 15:07:16"
         },
         {
           "name": "AutoYuanQin",
@@ -110151,7 +110151,7 @@
         {
           "name": "自动购买商品",
           "type": "directory",
-          "version": "3.5.10",
+          "version": "3.6.0",
           "author": "蜜柑魚",
           "authors": [
             {
@@ -110170,7 +110170,7 @@
             "购买商品",
             "模拟点击"
           ],
-          "lastUpdated": "2026-09-03 12:02:40"
+          "lastUpdated": "2026-09-05 23:44:53"
         },
         {
           "name": "自动领取成就奖励",
